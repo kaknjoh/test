@@ -1,3 +1,8 @@
 ovo je test
 
+<<<<<<< HEAD
 Edit
+=======
+
+Dodano svasta nesto 
+>>>>>>> Test
