@@ -11,3 +11,8 @@ Dodano svasta nesto
 
 Test/////////////////
 
+
+
+
+Opet testiranje sada push iz cmdasa local
+
