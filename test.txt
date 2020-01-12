@@ -16,8 +16,12 @@ Test/////////////////
 
 Opet testiranje sada push iz cmdasa local
 
+<<<<<<< HEAD
 
 
 
 Edit na githubu
+=======
+/*********************/
+>>>>>>> Test push iz cmda2
 
